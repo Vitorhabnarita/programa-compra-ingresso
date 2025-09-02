@@ -1,6 +1,6 @@
-# 🎟️ e-Ticket - Sistema de Compra de Ingressos
+#  e-Ticket - Sistema de Compra de Ingressos
 
-## 📜 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto é uma simulação da interface de compra de ingressos para um evento, desenvolvido para aprofundar e praticar conceitos de lógica de programação com JavaScript puro (Vanilla JS), com foco em gerenciamento de estoque e validação de dados.
 
@@ -8,7 +8,7 @@ A aplicação permite ao usuário selecionar um tipo de ingresso (Pista, Cadeira
 
 ---
 
-### ✨ Funcionalidades Implementadas
+###  Funcionalidades Implementadas
 
 * **Seleção de Ingresso e Quantidade:** Campos de formulário para o usuário escolher o tipo de ingresso e a quantidade.
 * **Gerenciamento de Estoque:** O código controla a quantidade disponível para cada tipo de ingresso, subtraindo os valores a cada compra bem-sucedida.
@@ -21,7 +21,7 @@ A aplicação permite ao usuário selecionar um tipo de ingresso (Pista, Cadeira
 
 ---
 
-### 💻 Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 * HTML5
 * CSS3
@@ -29,7 +29,7 @@ A aplicação permite ao usuário selecionar um tipo de ingresso (Pista, Cadeira
 
 ---
 
-### 🚀 Lições Aprendidas
+###  Lições Aprendidas
 
 Este projeto foi um excelente exercício para entender o fluxo completo de uma transação simples: **coleta de dados -> validação -> processamento -> atualização da interface**. A parte mais desafiadora e instrutiva foi construir a lógica condicional (`if/else`) para tratar os diferentes cenários (compra bem-sucedida vs. falha por falta de estoque ou entrada inválida). A implementação de validações robustas no início da função (`return` antecipado) se mostrou uma prática fundamental para escrever um código mais limpo e seguro.
 
